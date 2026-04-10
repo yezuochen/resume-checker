@@ -58,6 +58,9 @@ htmlcov/
 Thumbs.db
 *.tmp
 
+# Skill binary (generated locally)
+*.skill
+
 # Editor backups
 *.bak
 *.backup
